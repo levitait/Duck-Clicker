@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 25px;
+    background-image: url(./assets/gamebg.png);
+    overflow-y: hidden;
+}
+
+button {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.version {
+    text-align: right;
+}
