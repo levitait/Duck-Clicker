@@ -1,0 +1,6 @@
+To mod the game here are the file locations:
+
+
+Root - The HTML and CSS files,
+./assets - The audio and textures (images),
+./scripts - The JavaScript files.
