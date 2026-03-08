@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 25px;
+    background-image: url(./assets/gamebg.png);
+    overflow-y: hidden;
+}
